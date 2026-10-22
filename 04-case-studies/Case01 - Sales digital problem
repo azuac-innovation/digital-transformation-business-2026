@@ -1,7 +1,9 @@
 # KEYS 1: Pərakəndə satış şəbəkəsində rəqəmsallaşma böhranı
 
 # Situasiya
-AzerRetail MMC ölkə üzrə 63 mağazaya malik pərakəndə satış şəbəkəsidir. Son 2 ildə onlayn satış edən rəqiblərin artması səbəbindən şirkətin gəliri 18% azalıb. Şirkət hələ də kağız əsaslı inventar uçotu, kassada əl ilə endirim tətbiqləri və köhnə ERP sistemi ilə işləyir. CEO rəqəmsal transformasiya istəyir, lakin komanda nəyi hardan başlayacağını bilmir.
+AzerRetail MMC ölkə üzrə 63 mağazaya malik pərakəndə satış şəbəkəsidir. Son 2 ildə onlayn satış edən 
+rəqiblərin artması səbəbindən şirkətin gəliri 18% azalıb. Şirkət hələ də kağız əsaslı inventar uçotu, 
+kassada əl ilə endirim tətbiqləri və köhnə ERP sistemi ilə işləyir. CEO rəqəmsal transformasiya istəyir, lakin komanda nəyi hardan başlayacağını bilmir.
 
 # Tapşırıqlar
 1.	Şirkətin hazırkı rəqəmsal yetkinlik səviyyəsini qiymətləndir (Digital Maturity Assessment).
